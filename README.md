@@ -1,2 +1,2 @@
 # idea-nodes
-idea 使用总结
+- [x] live templates
