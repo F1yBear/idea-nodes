@@ -1,12 +1,8 @@
----
-
----
-
 # live templates
 
 ## 1. 打开IDEA的Settings，搜索live templates
 
-![](D:\code\idea-nodes\image\searchSettings.png)
+![](image\searchSettings.png)
 
 ## 2. 创建一个live templates
 
