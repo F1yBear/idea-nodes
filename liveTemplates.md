@@ -2,29 +2,29 @@
 
 ## 1. 打开IDEA的Settings，搜索live templates
 
-![](image\searchSettings.png)
+![](https://github.com/F1yBear/idea-nodes/blob/master/image/searchSettings.png)
 
 ## 2. 创建一个live templates
 
-![](D:\code\idea-nodes\image\create.png)
+![](https://github.com/F1yBear/idea-nodes/blob/master/image/create.png)
 
 > 也可以先创建一个模板分组，再创建模板
 
 ## 3. 模板框的介绍
 
-![](D:\code\idea-nodes\image\useing.png)
+![](https://github.com/F1yBear/idea-nodes/blob/master/image/useing.png)
 
 ## 4. 模板作用域的介绍
 
-![](D:\code\idea-nodes\image\context.png)
+![](https://github.com/F1yBear/idea-nodes/blob/master/image/context.png)
 
 ## 5.模板传参的介绍
 
-![](D:\code\idea-nodes\image\param.png)
+![](https://github.com/F1yBear/idea-nodes/blob/master/image/param.png)
 
 > 可以通过 ？图标学习怎么传参
 
-![](D:\code\idea-nodes\image\help.png)
+![](https://github.com/F1yBear/idea-nodes/blob/master/image/help.png)
 
 ## 6.  收尾
 
